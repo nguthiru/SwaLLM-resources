@@ -1,0 +1,7 @@
+*.arrow
+*.pub
+
+test_tokenized_dataset/
+train_tokenized_dataset/
+val_tokenized_dataset/
+.ipynb_checkpoints/
